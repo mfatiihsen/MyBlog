@@ -9,8 +9,40 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\img\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\site.js",

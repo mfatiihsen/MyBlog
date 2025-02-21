@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LcgQcH31uEMOM34PRLigNhOtzVTFc4sHSFvSQ68dAjI=",
+  "Hash": "kCmLFRvfCWyuAKRKwpsh4Pct1on22mgWzLyyNPl4xlo=",
   "Source": "myBlog",
   "BasePath": "_content/myBlog",
   "Mode": "Default",
@@ -773,6 +773,48 @@
       "OriginalItemSpec": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\m489j2te7c-devepoo3hg.gz",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/favicon#[.{fingerprint=devepoo3hg}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cxy5d4bo97",
+      "Integrity": "8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\mss22abqrk-02don332pa.gz",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "css/styles#[.{fingerprint=02don332pa}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qns87yf0m5",
+      "Integrity": "6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\np1lr8nfxm-j5mq2jizvt.gz",
       "SourceId": "myBlog",
       "SourceType": "Discovered",
@@ -1256,6 +1298,27 @@
       "OriginalItemSpec": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\y3fyi8mucz-ow7vr36ags.gz",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "js/scripts#[.{fingerprint=ow7vr36ags}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\scripts.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "apkoswq4gy",
+      "Integrity": "MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\scripts.js"
+    },
+    {
       "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\ypqtggy6l7-83jwlth58m.gz",
       "SourceId": "myBlog",
       "SourceType": "Discovered",
@@ -1424,6 +1487,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\css\\styles.css",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02don332pa",
+      "Integrity": "GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\favicon.ico",
       "SourceId": "myBlog",
       "SourceType": "Discovered",
@@ -1443,6 +1527,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\about-bg.jpg",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/about-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jiyb00j17u",
+      "Integrity": "e/NzqEQENvdHeLv9bK+byRplQRtYIrS00bMhb7kw738=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\about-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\contact-bg.jpg",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/contact-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "71ge1jjbx4",
+      "Integrity": "VfplT6bFmd+KV6GhO0U2W2lUGpiHfTA4Sfpbv43hbww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\contact-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\favicon.ico",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\home-bg.jpg",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/home-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gszixjpvae",
+      "Integrity": "sMKZCWajLb8/5O1/K6/NN0KOmAjGYJUOZscKgIqrarQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\home-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-bg.jpg",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/post-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90he4bzuxx",
+      "Integrity": "mY11p7VWsxBhKdWcwU/UAyVSJehRzy/6VS8mZqb437g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\post-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-sample-image.jpg",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "img/post-sample-image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcy7qsp5x5",
+      "Integrity": "o8Nuw0Y6qkUDRZxa/ZofKUYBRNkOSI1vulaEXI6yF54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\post-sample-image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\scripts.js",
+      "SourceId": "myBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\",
+      "BasePath": "_content/myBlog",
+      "RelativePath": "js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ow7vr36ags",
+      "Integrity": "OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\site.js",
@@ -3026,6 +3257,304 @@
       ]
     },
     {
+      "Route": "css/styles.02don332pa.css",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\mss22abqrk-02don332pa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032952186"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02don332pa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.02don332pa.css",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02don332pa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.02don332pa.css.gz",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\mss22abqrk-02don332pa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02don332pa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\mss22abqrk-02don332pa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032952186"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GGvJMKGsdOcjQG20pQn8+ulhpTrmbhoK8jc4I7YcSew="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\mss22abqrk-02don332pa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6p2g87TbxMLD3o2sYnMh8Q1tZCGxjJwJmq6emOLRO5M="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\8at17nw22t-61n19gt1b8.gz",
       "Selectors": [
@@ -3320,6 +3849,1012 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "img/about-bg.jiyb00j17u.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\about-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2547880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/NzqEQENvdHeLv9bK+byRplQRtYIrS00bMhb7kw738=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jiyb00j17u"
+        },
+        {
+          "Name": "label",
+          "Value": "img/about-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/NzqEQENvdHeLv9bK+byRplQRtYIrS00bMhb7kw738="
+        }
+      ]
+    },
+    {
+      "Route": "img/about-bg.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\about-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2547880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e/NzqEQENvdHeLv9bK+byRplQRtYIrS00bMhb7kw738=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e/NzqEQENvdHeLv9bK+byRplQRtYIrS00bMhb7kw738="
+        }
+      ]
+    },
+    {
+      "Route": "img/contact-bg.71ge1jjbx4.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\contact-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VfplT6bFmd+KV6GhO0U2W2lUGpiHfTA4Sfpbv43hbww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "71ge1jjbx4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/contact-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VfplT6bFmd+KV6GhO0U2W2lUGpiHfTA4Sfpbv43hbww="
+        }
+      ]
+    },
+    {
+      "Route": "img/contact-bg.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\contact-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500680"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VfplT6bFmd+KV6GhO0U2W2lUGpiHfTA4Sfpbv43hbww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VfplT6bFmd+KV6GhO0U2W2lUGpiHfTA4Sfpbv43hbww="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicon.devepoo3hg.ico",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\m489j2te7c-devepoo3hg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000490677134"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2037"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicon.devepoo3hg.ico",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicon.devepoo3hg.ico.gz",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\m489j2te7c-devepoo3hg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicon.ico",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\m489j2te7c-devepoo3hg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000490677134"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2037"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicon.ico",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "img/favicon.ico.gz",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\m489j2te7c-devepoo3hg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FKDW6r/m2bOZzkWUrDKO4H6U8g+j719fLbhAyMpNeM="
+        }
+      ]
+    },
+    {
+      "Route": "img/home-bg.gszixjpvae.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\home-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1007801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sMKZCWajLb8/5O1/K6/NN0KOmAjGYJUOZscKgIqrarQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gszixjpvae"
+        },
+        {
+          "Name": "label",
+          "Value": "img/home-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sMKZCWajLb8/5O1/K6/NN0KOmAjGYJUOZscKgIqrarQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/home-bg.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\home-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1007801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sMKZCWajLb8/5O1/K6/NN0KOmAjGYJUOZscKgIqrarQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sMKZCWajLb8/5O1/K6/NN0KOmAjGYJUOZscKgIqrarQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/post-bg.90he4bzuxx.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1803228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mY11p7VWsxBhKdWcwU/UAyVSJehRzy/6VS8mZqb437g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90he4bzuxx"
+        },
+        {
+          "Name": "label",
+          "Value": "img/post-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mY11p7VWsxBhKdWcwU/UAyVSJehRzy/6VS8mZqb437g="
+        }
+      ]
+    },
+    {
+      "Route": "img/post-bg.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1803228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mY11p7VWsxBhKdWcwU/UAyVSJehRzy/6VS8mZqb437g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mY11p7VWsxBhKdWcwU/UAyVSJehRzy/6VS8mZqb437g="
+        }
+      ]
+    },
+    {
+      "Route": "img/post-sample-image.jcy7qsp5x5.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-sample-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8Nuw0Y6qkUDRZxa/ZofKUYBRNkOSI1vulaEXI6yF54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcy7qsp5x5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/post-sample-image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8Nuw0Y6qkUDRZxa/ZofKUYBRNkOSI1vulaEXI6yF54="
+        }
+      ]
+    },
+    {
+      "Route": "img/post-sample-image.jpg",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\img\\post-sample-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8Nuw0Y6qkUDRZxa/ZofKUYBRNkOSI1vulaEXI6yF54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8Nuw0Y6qkUDRZxa/ZofKUYBRNkOSI1vulaEXI6yF54="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\y3fyi8mucz-ow7vr36ags.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002004008016"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "498"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js.gz",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\y3fyi8mucz-ow7vr36ags.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.ow7vr36ags.js",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\y3fyi8mucz-ow7vr36ags.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002004008016"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "498"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow7vr36ags"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.ow7vr36ags.js",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1176"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow7vr36ags"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OP88aJC5UdClVfW0oioWa+JS+C1b/TpKsCc4ZWtAFDI="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.ow7vr36ags.js.gz",
+      "AssetFile": "C:\\Users\\ademf\\OneDrive\\Masaüstü\\blog\\myBlog\\obj\\Debug\\net9.0\\compressed\\y3fyi8mucz-ow7vr36ags.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Mar 2023 22:42:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ow7vr36ags"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsWjpt/6rMKsW167fTf1F3/ba1UuG2pgy9NbQ9NEkXY="
         }
       ]
     },
