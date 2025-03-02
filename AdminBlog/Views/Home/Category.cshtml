@@ -12,6 +12,7 @@
         <th scope="col">ID</th>
         <th scope="col">Name</th>
         <th scope="col" class="text-center">Sil</th>
+        <th scope="col" class="text-center">Düzenle</th>
     </thead>
     <tbody>
         @foreach (var item in Model)
@@ -21,32 +22,61 @@
                 <td>@item.Name</td>
                 <td class="text-center"><a class="btn btn-danger" asp-action="DeleteCategory" asp-route-id="@item.Id"><i
                             class="fa-solid fa-xmark"></i></a></td>
+                <td class="text-center"><button class="btn btn-warning" onclick="updateForm(@item.Id)" type="button"><i
+                            class="fa-solid fa-edit"></i></button></td>
             </tr>
         }
     </tbody>
 </table>
 
 
-<div id="CategoryModal" class="modal" tabindex="-1">
-    <div class="modal-dialog">
+<div class="modal" id="CategoryModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title">Kategori</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <h5 class="modal-title">Kategori :</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
             </div>
-            <form method="post" action="/Home/AddCategory" autocomplete="off">
+            <form method="POST" action="/Home/AddCategory" autocomplete="off">
                 <div class="modal-body">
                     <div class="form-group">
-                        <input type="hidden" name="id" class="form-control">
-                        <input type="text" name="Name" class="form-control">
+                        <input type="hidden" name="Id" id="Id" class="form-control">
+                        <input type="text" name="Name" id="Name" class="form-control">
                     </div>
                 </div>
-
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
-                    <button type="submit" class="btn btn-primary">Ekle</button>
+                    <button type="button" class="btn btn-secondary" onclick="clearForm()"
+                        data-dismiss="modal">Kapat</button>
+                    <button type="submit" id="saveBtn" class="btn btn-primary">Ekle</button>
+                    <button type="submit" id="updateBtn" class="btn btn-primary">Güncelle</button>
                 </div>
             </form>
         </div>
     </div>
 </div>
+
+
+@section Scripts {
+    <script>
+        $(() => clearForm())
+        function updateForm(Id) {
+            fetch('/Home/CategoryDetails?Id=' + Id)
+                .then(res => res.json())
+                .then(res => {
+                    $('#Id').val(res.id)
+                    $('#Name').val(res.name)
+                })
+            $('#saveBtn').hide();
+            $('#updateBtn').show();
+            $('#CategoryModal').modal('show');
+        }
+        function clearForm() {
+            $('#Id').val(null)
+            $('#Name').val(null)
+            $('#saveBtn').show();
+            $('#updateBtn').hide();
+        }
+    </script>
+}

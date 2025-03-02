@@ -1,8 +1,17 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Login";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row">
+    <div class="col-md-6">
+        <form method="POST" action="/Home/Login" autocomplete="off">
+            <div class="form-group mt-5">
+                <input type="text" class="form-control" name="Email">
+            </div>
+            <div class="form-group mt-5">
+                <input type="password" class="form-control" name="Password">
+            </div>
+            <button class="btn btn-success mt-3">Login</button>
+        </form>
+    </div>
 </div>

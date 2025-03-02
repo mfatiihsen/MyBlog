@@ -1,0 +1,67 @@
+<form method="POST" id="form">
+    <div class="form-group">
+        <input type="text" name="title" class="form-control" id="title" placeholder="Başlık">
+    </div>
+    <div class="form-group">
+        <input type="text" name="subtitle" class="form-control" id="subtitle" placeholder="Alt Başlık">
+    </div>
+    <div name="Content" id="summernote">
+
+    </div>
+    <div class="form-group">
+        <input type="file" class="form-control" name="ImagePath">
+    </div>
+    @Html.DropDownList("Categories", null, "Bir kategori seçiniz!", new { @class = "form-control", @id = "Categories" })
+
+    <br />
+    <div class="btn-group-toggle">
+        <button type="button" onclick="Save()" class="btn btn-primary">Kaydet</button>
+    </div>
+
+</form>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.16/dist/summernote.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#summernote').summernote();
+        });
+
+        function Save() {
+            console.log("Bu butona tıklandı");
+
+            var title = document.getElementById("title").value;
+            var subtitle = document.getElementById("subtitle").value;
+            var content = $('#summernote').summernote('code');
+            var category = document.getElementById("Categories").value;
+            var form = document.getElementById("form");
+
+            var formData = new FormData(form);
+            formData.append("Title", title);
+            formData.append("Subtitle", subtitle);
+            formData.append("Content", content);
+            formData.append("CategoryId", category);
+
+            var url = '/Blog/Save';
+
+            fetch(url, {
+                method: 'POST',
+                body: formData
+            }).then(response => response.json())
+                .then(result => {
+                    console.log("Sunucudan dönen cevap:", result);
+                    if (result.success) {
+                        alert("Blog başarıyla kaydedildi!");
+                    } else {
+                        alert("Hata oluştu: " + result.message);
+                    }
+                })
+                .catch(error => {
+                    console.error("İstek sırasında hata oluştu:", error);
+                });
+        }
+
+
+
+    </script>
+}

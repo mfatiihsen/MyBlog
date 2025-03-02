@@ -17,45 +17,57 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdminBlog
 build_property.RootNamespace = AdminBlog
-build_property.ProjectDir = C:\Users\ademf\OneDrive\Masaüstü\blog\AdminBlog\
+build_property.ProjectDir = C:\Users\Ademf\Desktop\myBlog\MyBlog\AdminBlog\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ademf\OneDrive\Masaüstü\blog\AdminBlog
+build_property.MSBuildProjectDirectory = C:\Users\Ademf\Desktop\myBlog\MyBlog\AdminBlog
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/Home/Author.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Blog/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Home/Author.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdXRob3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/Home/Category.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Home/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/Home/Index.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/Shared/Error.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/_ViewImports.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/_ViewStart.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ademf/OneDrive/Masaüstü/blog/AdminBlog/Views/Shared/_Layout.cshtml]
+[C:/Users/Ademf/Desktop/myBlog/MyBlog/AdminBlog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9ij03grgho

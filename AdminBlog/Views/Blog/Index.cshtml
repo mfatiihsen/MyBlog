@@ -1,0 +1,39 @@
+@model IEnumerable<AdminBlog.Models.Blog>
+
+
+@{
+    ViewData["Title"] = "Blog";
+}
+
+
+<a class="btn btn-danger" asp-action="Blog">Blog Ekle</a>
+
+<table class="table table-hover">
+    <thead>
+        <th scope="col">ID</th>
+        <th scope="col">Name</th>
+        <th>Durum</th>
+        <th>İşlemler</th>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="row">@item.Id</td>
+                <td>@item.Title</td>
+                @if (item.IsPublish)
+                {
+                    <td><a class="btn btn-success">Yayınlandı</a>
+                    </td>
+                }
+                else
+                {
+                    <td><a class="btn btn-light" asp-route-id="@item.Id" asp-action="Publish">Yayınla</a>
+                    </td>
+                }
+                <th><a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Sil</a></th>
+
+            </tr>
+        }
+    </tbody>
+</table>

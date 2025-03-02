@@ -6,7 +6,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<BlogContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("BlogDb")));
+// Veritabanı bağlantısını ekleme
+builder.Services.AddDbContext<BlogContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("BlogDb")));
+
+// Session servisini ekleme
+builder.Services.AddSession();
 
 var app = builder.Build();
 
@@ -14,14 +19,16 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
 app.UseRouting();
 
-app.UseAuthorization();
+// 🔴 Session'ı burada devreye alıyoruz
+app.UseSession(); 
+
+app.UseAuthorization(); // Yetkilendirmeyi session'dan sonra çağır
 
 app.MapStaticAssets();
 
@@ -29,6 +36,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
-
 
 app.Run();
